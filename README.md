@@ -61,7 +61,7 @@ Goal: Identify if customers with more policy claims also file higher-value claim
 •	Found strong age and segment-level behaviour differences
 
 **🧮 Tech Stack:**
-•	Python 3
+•	Python
 •	Pandas, NumPy
 •	Matplotlib, Seaborn
 •	SciPy
